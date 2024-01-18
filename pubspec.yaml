@@ -1,5 +1,5 @@
 name: google_directions_api
-version: 0.9.1
+version: 1.0.0
 homepage: https://github.com/marchdev-tk/google_directions_api
 description: The Directions API is a service that calculates directions between locations. You can search for directions for several modes of transportation.
 
@@ -9,9 +9,9 @@ environment:
 dependencies:
 
   google_polyline_algorithm: ^3.1.0
-  http: ^0.13.4
+  http: ^1.0.0
   flinq: ^2.0.2
 
 dev_dependencies:
-  flutter_lints: ^1.0.4
+  flutter_lints: ^3.0.0
   test: ^1.20.1
